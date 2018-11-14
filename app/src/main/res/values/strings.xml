@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RoomOneToMany</string>
+    <string name="company_name_hint">Company name</string>
+    <string name="employees_list_hint">Employees list</string>
+    <string name="search_button_text">Search</string>
+    <string name="insert_button_text">Insert</string>
+    <string name="insert_company_text">Inserting %s into database</string>
+    <string name="company_not_found">%s isn\'t found</string>
+    <string name="empty_data">Company or employees list is empty</string>
+</resources>
